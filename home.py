@@ -8,6 +8,6 @@ st.header("Website Developing using Python")
 st.image('./img/monruede.jpg')
 st.subheader("Monruede Chomchuen")
 
-dt=pd.read_csv('./data/itis-3.csv')
+dt=pd.read_csv('./data/iris-3.csv')
 st.header("ข้อมูลดอกไม้")
 st.write(dt.head(10))
