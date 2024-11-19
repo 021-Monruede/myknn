@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 st.header('Monruede')
-st.image("./img/monruede.jpg")
+st.image("./img/mon.jfif")
 col1, col2, col3 = st.columns(3)
 with col1:
  st.header("Versicolor")
