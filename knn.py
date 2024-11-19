@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.header('Monruede')
+st.header('Monruede Chomchuen 654230021')
 st.image("./img/mon.jfif")
 col1, col2, col3 = st.columns(3)
 with col1:
